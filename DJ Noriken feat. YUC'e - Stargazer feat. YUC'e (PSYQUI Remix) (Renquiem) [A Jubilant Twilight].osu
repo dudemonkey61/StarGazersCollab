@@ -6,7 +6,7 @@ AudioLeadIn: 0
 PreviewTime: -1
 Countdown: 0
 SampleSet: Soft
-StackLeniency: 0.2
+StackLeniency: 0.5
 Mode: 0
 LetterboxInBreaks: 0
 WidescreenStoryboard: 0
@@ -34,12 +34,13 @@ BeatmapSetID:689929
 HPDrainRate:6
 CircleSize:4
 OverallDifficulty:8.5
-ApproachRate:9.3
+ApproachRate:9.4
 SliderMultiplier:1.6
 SliderTickRate:1
 
 [Events]
 //Background and Video events
+0,0,"background.png",0,0
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
@@ -48,7 +49,7 @@ SliderTickRate:1
 //Storyboard Sound Samples
 
 [TimingPoints]
-81,357.142857142857,4,2,1,40,1,0
+81,357.142857142857,4,2,1,60,1,0
 
 
 [Colours]
