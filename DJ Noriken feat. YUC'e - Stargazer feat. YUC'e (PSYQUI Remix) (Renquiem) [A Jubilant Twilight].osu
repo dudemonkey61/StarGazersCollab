@@ -1,0 +1,63 @@
+osu file format v14
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: -1
+Countdown: 0
+SampleSet: Soft
+StackLeniency: 0.2
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+Bookmarks: 2938,3116,3205,3295,3473,3652,3830,4188,4322,4366,4634,4723,4902,5080,5259,5438,5527,5616,5795,5973,6063,6152,6330,6509,6688,7045,7134,7223,7402,7580,7759,7938,8027,8116,8295,8741,8830,8920,9009,9188,9366,9545,9723,9902,10170,10438,10616,10795,10973,11152,11330,11509,11777,12045,12223,12402,12491,12938,13205,13473,13652,13830,13920,14188,14277,14366,14545,14634,14723,14902,15080,15259,15616,15795,15973,16063,16241,16420,16509,16688,16777,16955,17045,17134,17223,17491,17759,17938,18116,18295,18473,18652,18920,19188,19366,19545,19723,20170,20259,20348,20527,20616,20795,20973,21152,21330,21598,21866,22045,22134,22223,22402,22580,22759,22938,23205,23473,23652,23830,24009,24188,24366,24902,25080,25259,25438,25616,25795,27580,27938,28116,28295,28473,28563,28652
+DistanceSpacing: 1.6
+BeatDivisor: 4
+GridSize: 4
+TimelineZoom: 2.5
+
+[Metadata]
+Title:Stargazer feat. YUC'e (PSYQUI Remix)
+TitleUnicode:スターゲイザ ー feat. YUC'e (PSYQUI Remix)
+Artist:DJ Noriken feat. YUC'e
+ArtistUnicode:DJ Noriken feat. YUC'e
+Creator:Renquiem
+Version:A Jubilant Twilight
+Source:
+Tags:Futurecore Electronic step Irate [Yui] Cyndere Renquiem Collab
+BeatmapID:1460295
+BeatmapSetID:689929
+
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:8.5
+ApproachRate:9.3
+SliderMultiplier:1.6
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Sound Samples
+
+[TimingPoints]
+81,357.142857142857,4,2,1,40,1,0
+
+
+[Colours]
+Combo1 : 240,80,80
+Combo2 : 0,255,255
+Combo3 : 255,156,0
+Combo4 : 34,219,133
+Combo5 : 255,128,255
+Combo6 : 255,255,0
+
+[HitObjects]
+256,192,438,12,0,2223,0:0:0:0:
